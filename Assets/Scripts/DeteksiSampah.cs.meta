@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e54135054978f9d4eb698e2bcc990745
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioBenar: {fileID: 8300000, guid: b12ddfbe8cf14864db04a7760c3a072a, type: 3}
+  - audioSalah: {fileID: 8300000, guid: 19e41ffa63d994749b97fa1a103ca6b5, type: 3}
+  - textScore: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
